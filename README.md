@@ -1,4 +1,4 @@
-[![Serknet](https://resources.abblix.com/imgs/jpg/abblix-oidc-server-github-banner.jpg)](https://serknet.xyz/)
+[![Serknet](https://r2.fivemanage.com/f6UgsuPuvM777m0UMQiq6/image(26).png)](https://serknet.xyz/)
 
 # Hello 👋, I'm Zax
 
