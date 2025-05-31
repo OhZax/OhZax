@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
 - 🌐 All of my projects are available at [serknet.xyz](https://serknet.xyz)
 - 💬 Ask me about: `Lua`, `JavaScript`, `HTML`, `CSS`, `SQL`, `TypeScript`
