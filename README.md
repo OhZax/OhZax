@@ -22,7 +22,25 @@
   </a>
 </p>
 
-<h2>:link: Donde conseguirme</h2>
-<p><a target="_blank" href="https://twitter.com/serknetpr" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.instagram.com/y.svlzrrr_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@serknet" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<!-- Incluye Font Awesome en tu HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<h2>🌐 Connect with me:</h2>
+<div style="display: flex; gap: 15px; align-items: center; margin-top: 10px;">
+  <a href="https://codepen.io" target="_blank" style="color: #000; font-size: 28px;">
+    <i class="fab fa-codepen" style="background: #e6ffff; padding: 10px; border-radius: 15px;"></i>
+  </a>
+  <a href="https://twitter.com/serknetpr" target="_blank" style="color: #1DA1F2; font-size: 28px;">
+    <i class="fab fa-twitter"></i>
+  </a>
+  <a href="https://www.instagram.com/y.svlzrrr_" target="_blank" style="color: #E1306C; font-size: 28px;">
+    <i class="fab fa-instagram"></i>
+  </a>
+  <a href="https://www.youtube.com/@serknet" target="_blank" style="color: #FF0000; font-size: 28px;">
+    <i class="fab fa-youtube"></i>
+  </a>
+  <a href="https://discord.com" target="_blank" style="color: #5865F2; font-size: 28px;">
+    <i class="fab fa-discord"></i>
+  </a>
+</div>
+
