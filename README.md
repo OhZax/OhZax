@@ -1,5 +1,5 @@
 <h1>Hola :wave:, Soy Zax</h1>
-<p>Vice Presidente de SerkNet y Software Developer</p>
+<p>Co-Dueño y Software Developer de Serknet</p>
 <h2>🛩️Lenguajes que uso:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
