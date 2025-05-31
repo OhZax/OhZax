@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-- 🌐 All of my projects are available at [serknet.xyz](https://serknet.xyz)
+- 🌐 All of my projects are available at [serknet.xyz](https://serknet.xyz) and [ticket-hub.app](https://ticket-hub.app/)
 - 💬 Ask me about: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
 - 📫 How to reach me: **zax@serknet.xyz**
 
