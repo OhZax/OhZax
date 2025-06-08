@@ -1,6 +1,6 @@
 [![Serknet](https://r2.fivemanage.com/f6UgsuPuvM777m0UMQiq6/image(27).png)](https://serknet.xyz/)
 
-# ⛹️‍♂️ I'm Zax
+#  I'm Zax
 
 **Co-Owner and Software Developer at Serknet**
 
