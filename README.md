@@ -44,3 +44,87 @@
   </a>
 </p>
 
+---
+## 📝 Usable
+
+```jsx
+import React from 'react'
+
+
+import ReactDOM from 'react-dom'
+
+
+import DropdownTreeSelect from 'react-dropdown-tree-select'
+
+import 'react-dropdown-tree-select/dist/styles.css'
+
+// Representing Serknet's services and expertise
+const data = {
+  label: 'Why choose Serknet?',
+  value: 'serknet',
+  children: [
+    {
+      label: 'Best in Coding',
+      value: 'coding',
+      children: [
+        {
+          label: 'Modern tech stack (React, TS, Python, Lua)',
+          value: 'techstack',
+        },
+        {
+          label: 'Custom solutions tailored to you',
+          value: 'customsolutions',
+        },
+      ],
+    },
+    {
+      label: 'Top-notch Security',
+      value: 'security',
+      children: [
+        {
+          label: 'DDoS Protection & Secure Infrastructure',
+          value: 'ddos',
+        },
+        {
+          label: 'Trusted by leading platforms',
+          value: 'trusted',
+        },
+      ],
+    },
+    {
+      label: 'Let’s build something great',
+      value: 'contact',
+      children: [
+        {
+          label: 'Contact us: zax@serknet.xyz',
+          value: 'email',
+        },
+        {
+          label: 'Visit: https://serknet.xyz',
+          value: 'website',
+        },
+      ],
+    },
+  ],
+}
+
+const onChange = (currentNode, selectedNodes) => {
+  console.log('onChange::', currentNode, selectedNodes)
+}
+const onAction = (node, action) => {
+  console.log('onAction::', action, node)
+}
+const onNodeToggle = currentNode => {
+  console.log('onNodeToggle::', currentNode)
+}
+
+ReactDOM.render(
+  <DropdownTreeSelect
+    data={data}
+    onChange={onChange}
+    onAction={onAction}
+    onNodeToggle={onNodeToggle}
+  />,
+  document.getElementById('root') // Use a real DOM element, not document.body
+)
+```
