@@ -10,6 +10,7 @@
 
 - 🌐 All of my projects are available at [serknet.xyz](https://serknet.xyz) and [ticket-hub.app](https://ticket-hub.app/)
 - 💬 Ask me about: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
+- ⛹️‍♂️ I'm a front-end developer.
 - 📫 How to reach me: **zax@serknet.xyz**
 
 ---
