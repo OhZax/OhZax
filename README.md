@@ -1,21 +1,21 @@
 [![Serknet](https://r2.fivemanage.com/f6UgsuPuvM777m0UMQiq6/image(27).png)](https://serknet.xyz/)
 
-#  I'm Zax
+# Soy Zax
 
-**Co-Owner and Software Developer at Serknet**
-
----
-
-## ✨ About Me
-
-- 🌐 All of my projects are available at [serknet.xyz](https://serknet.xyz) and [ticket-hub.app](https://ticket-hub.app/)
-- 💬 Ask me about: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
-- ⛹️‍♂️ I'm a front-end developer.
-- 📫 How to reach me: **zax@serknet.xyz**
+**Co-Proprietario y Desarrollador de Software en Serknet**
 
 ---
 
-## 🚀 Languages I use:
+## ✨ Sobre mí
+
+- 🌐 Todos mis proyectos están disponibles en [serknet.xyz](https://serknet.xyz) y [ticket-hub.app](https://ticket-hub.app/)
+- 💬 Pregúntame sobre: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
+- ⛹️‍♂️ Soy desarrollador front-end.
+- 📫 Puedes contactarme en: **zax@serknet.xyz**
+
+---
+
+## 🚀 Lenguajes que utilizo:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="42" height="42"/>
 </p>
 
-## 🌐 Connect with me:
+## 🌐 Conecta conmigo:
 
 <p align="left">
   <a href="https://twitter.com/serknetpr" target="_blank">
@@ -44,64 +44,61 @@
   </a>
 </p>
 
-
 ---
-## 📝 Usage
+
+## 📝 Uso
 
 ```jsx
 import React from 'react'
 
-
 import ReactDOM from 'react-dom'
 
-
 import DropdownTreeSelect from 'react-dropdown-tree-select'
-
 import 'react-dropdown-tree-select/dist/styles.css'
 
-// Representing Serknet's services and expertise
+// Representando los servicios y la experiencia de Serknet
 const data = {
-  label: 'Why choose Serknet?',
+  label: '¿Por qué elegir Serknet?',
   value: 'serknet',
   children: [
     {
-      label: 'Best in Coding',
+      label: 'Líderes en programación',
       value: 'coding',
       children: [
         {
-          label: 'Modern tech stack (React, TS, Python, Lua)',
+          label: 'Tecnología moderna (React, TS, Python, Lua)',
           value: 'techstack',
         },
         {
-          label: 'Custom solutions tailored to you',
+          label: 'Soluciones personalizadas a tu medida',
           value: 'customsolutions',
         },
       ],
     },
     {
-      label: 'Top-notch Security',
+      label: 'Seguridad de primer nivel',
       value: 'security',
       children: [
         {
-          label: 'DDoS Protection & Secure Infrastructure',
+          label: 'Protección contra DDoS e infraestructura segura',
           value: 'ddos',
         },
         {
-          label: 'Trusted by leading platforms',
+          label: 'Confiado por plataformas líderes',
           value: 'trusted',
         },
       ],
     },
     {
-      label: 'Let’s build something great',
+      label: 'Construyamos algo grande juntos',
       value: 'contact',
       children: [
         {
-          label: 'Contact us: zax@serknet.xyz',
+          label: 'Contáctanos: zax@serknet.xyz',
           value: 'email',
         },
         {
-          label: 'Visit: https://serknet.xyz',
+          label: 'Visítanos: https://serknet.xyz',
           value: 'website',
         },
       ],
@@ -126,6 +123,5 @@ ReactDOM.render(
     onAction={onAction}
     onNodeToggle={onNodeToggle}
   />,
-  document.getElementById('root') // Use a real DOM element, not document.body
+  document.getElementById('root') // Usa un elemento real del DOM, no document.body
 )
-```
