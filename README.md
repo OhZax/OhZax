@@ -9,7 +9,7 @@
 ## ✨ Sobre mí
 
 - 🌐 Todos mis proyectos están disponibles en [serknet.xyz](https://serknet.xyz) y [ticket-hub.app](https://ticket-hub.app/)
-- 💬 Pregúntame sobre: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
+- 💬 Mis lenguajes favoritos: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
 - ⛹️‍♂️ Soy desarrollador front-end.
 - 📫 Puedes contactarme en: **zax@serknet.xyz**
 
