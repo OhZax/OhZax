@@ -2,7 +2,7 @@
 
 # Soy Zax
 
-**Co-Proprietario y Desarrollador de Software en Serknet**
+**Co-Dueño y Desarrollador de Software en Serknet**
 
 ---
 
