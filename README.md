@@ -1,4 +1,4 @@
-[![Serknet](https://r2.fivemanage.com/f6UgsuPuvM777m0UMQiq6/image(30).png)](https://serknet.xyz/)
+[![Serknet](https://r2.fivemanage.com/f6UgsuPuvM777m0UMQiq6/image(27).png)](https://serknet.xyz/)
 
 # Soy Zax
 
