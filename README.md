@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Sobre mí
+## 💻 Sobre mí
 
 - 🌐 Todos mis proyectos están disponibles en [serknet.xyz](https://serknet.xyz) y [ticket-hub.app](https://ticket-hub.app/)
 - 💬 Mis lenguajes favoritos: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
