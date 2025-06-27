@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Lenguajes que utilizo:
+## 🧑‍💻 Lenguajes que utilizo:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
